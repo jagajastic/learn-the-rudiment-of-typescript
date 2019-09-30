@@ -9,7 +9,7 @@
 - Class
 - Access Modifiers
 - Constructor
-- Modifiers inConstructor Parameter
+- Modifiers in Constructor Parameter
 - Object
 - Module
 
